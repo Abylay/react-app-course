@@ -2,6 +2,9 @@
   --main-bg-color: #23272F;
   --text-color: #fff;
 
+  --btn-bg-color: #383b3f;
+  --btn-text-color: #fff;
+
   --sans: system-ui, 'Segoe UI', Roboto, sans-serif;
   --heading: system-ui, 'Segoe UI', Roboto, sans-serif;
   --mono: ui-monospace, Consolas, monospace;
@@ -36,6 +39,9 @@ a {
   :root {
     --main-bg-color: #fff;
     --text-color: #000;
+
+    --btn-bg-color: #16444f;
+    --btn-text-color: #57C4DC;
   }
 }
 
@@ -43,6 +49,8 @@ a {
   :root {
     --main-bg-color: #23272F;
     --text-color: #fff;
+    --btn-bg-color: #383b3f;
+    --btn-text-color: #fff;
   }
 }
 
