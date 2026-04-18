@@ -5,6 +5,8 @@
   --btn-bg-color: #383b3f;
   --btn-text-color: #fff;
 
+  --card-bg-color: #343a46;
+
   --sans: system-ui, 'Segoe UI', Roboto, sans-serif;
   --heading: system-ui, 'Segoe UI', Roboto, sans-serif;
   --mono: ui-monospace, Consolas, monospace;
@@ -42,6 +44,8 @@ a {
 
     --btn-bg-color: #16444f;
     --btn-text-color: #57C4DC;
+
+    --card-bg-color: #ebedf0;
   }
 }
 
@@ -49,8 +53,11 @@ a {
   :root {
     --main-bg-color: #23272F;
     --text-color: #fff;
+
     --btn-bg-color: #383b3f;
     --btn-text-color: #fff;
+
+    --card-bg-color: #343a46;
   }
 }
 
