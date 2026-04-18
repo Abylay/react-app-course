@@ -4,7 +4,7 @@ export const SearchIcon = (props) => {
       width="20"
       height="20"
       viewBox="0 0 20 20"
-      class="align-middle me-3 text-gray-30 shrink-0 group-betterhover:hover:text-gray-70"
+      className="align-middle me-3 text-gray-30 shrink-0 group-betterhover:hover:text-gray-70"
       {...props}
     >
       <path
