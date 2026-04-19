@@ -565,5 +565,6 @@
       "level": 1,
       "completed": false
     }
-  ]
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
 }
